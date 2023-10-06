@@ -7,7 +7,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">E-mail Spam Detector </h3>
+<h3 align="center">Email Spam Detector </h3>
 
   <p align="center">
     <br />
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<b>E-mail Spam Detector  </b> is machine learning classifier model built to analyze email texts and determine whether it is spam or legitimate. 
+<b>Email Spam Detector  </b> is machine learning classifier model built to analyze email texts and determine whether it is spam or legitimate. 
 
 
 

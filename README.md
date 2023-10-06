@@ -1,4 +1,4 @@
-# E-mail Spam Detector
+# Email Spam Detector
 
 <div id="top"></div>
 
